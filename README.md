@@ -32,6 +32,8 @@ Gönderici ve alıcı bilgileri, kargo durumu ve kurye atamaları tek ekranda ko
 
 
 Kullanılan Teknolojiler:
+
+
 ☕ Java
 
 
