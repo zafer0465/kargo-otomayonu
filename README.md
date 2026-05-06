@@ -23,11 +23,23 @@ Kullanılan Teknolojiler:
 
 
 ⚙️ Nasıl Çalışır? (Gerçek Akış):
+
+
 1.Kullanıcı kargo numarası ve bilgileri girer
+
+
 2.Gönderici ve alıcı bilgileri doldurulur
+
+
 3.Kurye ve başlangıç durumu seçilir
+
+
 4.Kargo Kaydet ile sistem kaydı oluşturur
+
+
 5.Sağ panelde tüm kargolar listelenir
+
+
 6.Seçilen kargo:
    -Güncellenebilir
    -Silinebilir
