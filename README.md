@@ -43,13 +43,13 @@ Kullanılan Teknolojiler:
 6.Seçilen kargo:
 
 
-        -Güncellenebilir
+   -Güncellenebilir
 
    
-        -Silinebilir
+   -Silinebilir
 
    
-        -Arama ile bulunabilir
+   -Arama ile bulunabilir
 
    
 
