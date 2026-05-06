@@ -3,6 +3,8 @@
 Java ile geliştirilmiş bu masaüstü uygulama, kargo süreçlerini merkezi bir panel üzerinden yönetmeyi sağlar.
 Gönderici ve alıcı bilgileri, kargo durumu ve kurye atamaları tek ekranda kontrol edilir.
 
+
+
 🚀 Temel Özellikler:
 
 
@@ -27,11 +29,15 @@ Gönderici ve alıcı bilgileri, kargo durumu ve kurye atamaları tek ekranda ko
 📊 Kayıtlı kargoların listelenmesi
 
 
+
+
 Kullanılan Teknolojiler:
 ☕ Java
 🎨 Java Swing (masaüstü arayüz)
 🔗 JDBC (veri işlemleri)
 🗄️ (Varsa ekle) SQLite / MySQL
+
+
 
 
 ⚙️ Nasıl Çalışır? (Gerçek Akış):
@@ -62,6 +68,9 @@ Kullanılan Teknolojiler:
 
    
    -Arama ile bulunabilir
+
+
+
 
    
 
