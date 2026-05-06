@@ -7,11 +7,23 @@ Gönderici ve alıcı bilgileri, kargo durumu ve kurye atamaları tek ekranda ko
 
 
 📌 Kargo oluşturma (Kargo Kaydet)
+
+
 🔄 Durum güncelleme (Durum Güncelle)
+
+
 ❌ Kargo silme
+
+
 🔍 Kargo No ile arama
+
+
 👤 Gönderici & alıcı bilgisi yönetimi
+
+
 🚚 Kurye atama sistemi
+
+
 📊 Kayıtlı kargoların listelenmesi
 
 
