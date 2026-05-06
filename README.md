@@ -4,6 +4,8 @@ Java ile geliştirilmiş bu masaüstü uygulama, kargo süreçlerini merkezi bir
 Gönderici ve alıcı bilgileri, kargo durumu ve kurye atamaları tek ekranda kontrol edilir.
 
 🚀 Temel Özellikler:
+
+
 📌 Kargo oluşturma (Kargo Kaydet)
 🔄 Durum güncelleme (Durum Güncelle)
 ❌ Kargo silme
@@ -36,8 +38,14 @@ Kullanılan Teknolojiler:
 Proje, klasik katmanlı yapı mantığıyla geliştirilmiştir:
 
 -Model → Kargo, Müşteri, Kurye veri yapıları
+
+
 -Service / Logic → İş kuralları (durum güncelleme vs.)
+
+
 -UI (Swing) → Kullanıcı etkileşimi
+
+
 -Database Layer → Veri yönetimi
 
 Bu yapı sayesinde proje:
