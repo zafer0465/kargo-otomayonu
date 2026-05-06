@@ -41,9 +41,17 @@ Kullanılan Teknolojiler:
 
 
 6.Seçilen kargo:
+
+
    -Güncellenebilir
+
+   
    -Silinebilir
+
+   
    -Arama ile bulunabilir
+
+   
 
 🏗️ Teknik Yapı:
 
